@@ -27,8 +27,8 @@ https://raw.githubusercontent.com/PaloAltoNetworks/Azure-HA-AutoLaunch/master/No
 # Manual Approach
 If you choose to take a different approach you can do the following
 
-1. Launch a VM-Series firewall using the latest which is 9.0(only needed if you don't have an existing VM-Series launched)
-2. Use Azure CLI to launch a second VM-Series running PAN-OS 8.1 into the exact same Resource Group as the first firewall
+1. Launch a VM-Series firewall using the latest which is 9.1(only needed if you don't have an existing VM-Series launched)
+2. Use Azure CLI to launch a second VM-Series running PAN-OS 9.1 into the exact same Resource Group as the first firewall
 
 For more information on how to use the Azure CLI. [CLICK HERE](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)  
 For an Online Azure CLI shell use the following link and select the Powershell option. [CLICK HERE](https://shell.azure.com/)  
