@@ -1,11 +1,20 @@
 **The Purpose of this template is to allow you to auto launch the architecture needed to test drive the Azure HA offering.**   
 
-# Auto Deployment
+
+# Azure HA North/South Deployment
 
 [<img src="http://azuredeploy.net/deploybutton.png"/>](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPaloAltoNetworks%2FAzure-HA-AutoLaunch%2Fmaster%2FNorthSouth%2Fazuredeploy.json?token=AZoiWXZHIcxPcJG4iqbfyOUvHN1O8coUks5ahgGXwA%3D%3D)
 
-# Manual Approach
+# Requirements   
+- VM-Series Plugin v1.0.4 or greater.
+- A working Azure Service Principal.
+For information on setting up an Azure Service Princial [CLICK HERE](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal) 
 
+**Demo Video**
+- North/South 	***0:00***  [CLICK HERE](
+https://raw.githubusercontent.com/PaloAltoNetworks/Azure-HA-AutoLaunch/master/NorthSouth/ComingSoon.txt)  
+
+# Manual Approach
 If you choose to take a different approach you can do the following
 
 1. Launch a VM-Series firewall using the latest which is 9.0(only needed if you don't have an existing VM-Series launched)
@@ -15,7 +24,7 @@ For more information on how to use the Azure CLI. [CLICK HERE](https://docs.micr
 For an Online Azure CLI shell use the following link and select the Powershell option. [CLICK HERE](https://shell.azure.com/)  
 For information on how to setup an Azure Service Principal [CLICK HERE](https://docs.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal)  
 
-You will still be responsible for configuring your own Azure HA settings within the Azure Portal and the VM-Series firewall. Please refer to the VM-Series deployment guide for 9.0 for configuration details. [DEPLOYMENT GUIDE](https://docs.paloaltonetworks.com/vm-series/9-0/vm-series-deployment/set-up-the-vm-series-firewall-on-azure/configure-activepassive-ha-for-vm-series-firewall-on-azure.html)
+You will still be responsible for configuring your own Azure HA settings within the Azure Portal and the VM-Series firewall. Please refer to the VM-Series deployment guide for 9.1 for configuration details. [DEPLOYMENT GUIDE](https://docs.paloaltonetworks.com/vm-series/9-1/vm-series-deployment/set-up-the-vm-series-firewall-on-azure/configure-activepassive-ha-for-vm-series-firewall-on-azure.html)
 
 
 # Support Policy: Community-Supported
