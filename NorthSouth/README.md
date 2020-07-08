@@ -13,12 +13,12 @@ For information on setting up an Azure Service Princial [CLICK HERE](https://doc
 
 **VM-Series Config File**   
 a sample VM-Series configuration file has been included in this GitHub repository. This is preconfigured with all the necessary settings. You will need to add your service principal information and change the HA settings to your liking.  
-user: admin 
-pwd: PaloAlto@123 
+***user:*** admin  
+***pwd:*** PaloAlto@123 
 
 **ARM Template Password** 
-user:pandemo 
-pwd: Dem0pa55w0rd
+***user:*** pandemo  
+***pwd:*** Dem0pa55w0rd
 
 **Demo Video**
 - North/South 	***0:00***  [CLICK HERE](
