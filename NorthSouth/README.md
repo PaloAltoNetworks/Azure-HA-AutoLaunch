@@ -16,7 +16,7 @@ a sample VM-Series configuration file has been included in this GitHub repositor
 ***user:*** admin  
 ***pwd:*** PaloAlto@123 
 
-**ARM Template Password** 
+**ARM Template Password**  
 ***user:*** pandemo  
 ***pwd:*** Dem0pa55w0rd
 
