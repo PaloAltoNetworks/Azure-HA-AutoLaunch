@@ -21,8 +21,8 @@ a sample VM-Series configuration file has been included in this GitHub repositor
 ***pwd:*** Dem0pa55w0rd
 
 **Demo Video**
-- North/South 	***0:00***  [CLICK HERE](
-https://raw.githubusercontent.com/PaloAltoNetworks/Azure-HA-AutoLaunch/master/NorthSouth/ComingSoon.txt)  
+- North/South 	***3:21***  [CLICK HERE](
+https://raw.githubusercontent.com/PaloAltoNetworks/Azure-HA-AutoLaunch/master/NorthSouth/AzureHANorthSouth.mp4)  
 
 # Manual Approach
 If you choose to take a different approach you can do the following
