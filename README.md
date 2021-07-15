@@ -1,3 +1,7 @@
+# Palo Alto Networks AWS Gallery
+
+Gallery (https://gallery.pan.dev/) is a separate forum used to appropriately structure and organize repositories. Easier method of searching Repositories and maintaining each Repository.
+
 # Azure-HA-AutoLaunch
 Auto Launch templates for Azure HA
 
